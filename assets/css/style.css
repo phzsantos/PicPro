@@ -36,9 +36,13 @@ body {
 
 .secaoDetalhesConta .secaoDetalhesConta_sobreUsuario {
     display: flex;
-    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+
+.usuario {
+    display: flex;
     align-items: flex-end;
-    margin-bottom: 20px;
 }
 
 .secaoDetalhesConta_sobreUsuario p {
@@ -47,8 +51,14 @@ body {
 }
 
 .secaoDetalhesConta_sobreUsuario img {
-    width: 100px;
+    width: 100%;
     max-width: 50px;
+}
+
+.secaoDetalhesConta_sobreUsuario .juncao img{
+    width: 100%;
+    max-width: 30px;
+    margin-left: 30px;
 }
 
 .secaoDetalhesConta_sobreUsuario p strong {
