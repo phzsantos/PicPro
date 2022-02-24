@@ -1,0 +1,37 @@
+/* CSS = cascading style sheet */
+
+/*
+seletor {
+    propriedade: valor;
+    cor: vermelho;
+}
+
+Tipos de seletores:
+
+1. seletor por elemento/tag;
+2. seletor por classe: .classe
+3. seletor por id: #id
+
+cores:
+
+color: letra
+background color: fundo
+
+fonte:
+
+font-family: font
+fonte-size:
+
+tamanho:
+
+width: largura
+height: altura
+
+Posionamento (display):
+
+inline: ele fica em linha, nao quebra linha 
+block: ele quebra linha
+inline block: nao quebra linha mas pode mudar o tamanho (privilegios de bloco)
+flexbox: desbloca os itens, deixa eles lado a lado e tem varias propriedades para ajudar a posicionar
+
+*/
