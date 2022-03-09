@@ -9,7 +9,7 @@ Repositório criado para acompanhar o evento gratuito PicPro, uma parceria entre
 ## Etapas do projeto:
 - [x] HTML
 - [x] CSS
-- [ ] JavaScript
+- [x] JavaScript
 
 ## Repositório oficial do projeto:
 
